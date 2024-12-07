@@ -1,0 +1,6 @@
+*.jpg
+**/*.npy
+**/__pycache__
+models/
+.DS_Store
+segment-anything/
