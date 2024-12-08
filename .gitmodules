@@ -1,0 +1,3 @@
+[submodule "segment_anything"]
+	path = segment-anything
+	url = https://github.com/Desjajja/sam_onnx.git
